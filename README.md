@@ -49,5 +49,5 @@ $ git push -u origin pr2
 
 | Ресурсы              | Ссылкы                                                           |
 | ------------        | -----------------------------------------------------------------|
-| Статья по markdown     | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images |
+| Статья по markdown     | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
 |Документация по GIT  | https://git-scm.com/                                             |
